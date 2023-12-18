@@ -10,6 +10,10 @@ Milestones:
 4. Check if the embedding space (latent word vector space) posess the semantic geometry, where e.g. King-Man+Woman=Queen.
 
 Environment:
-- `pip install tfds-nightly`
+- Python 3.9
+- Torch 2.1.0+cu118
+- Cuda 11.8
+- Make sure to use tfds-nightly instead of tensorflow-datasets \
+  `pip install tfds-nightly`
 
 ![Два дебила это сила](DevelopmentBuddies.jpg)
