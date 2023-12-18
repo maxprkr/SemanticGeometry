@@ -1,4 +1,4 @@
 # SemanticGeometry
 
 Toy project in LLM training.
-The goal of the project is to train the embedder to project the words into the Seman
+The goal of the project is create the embedding space whith semantically meaningful geometry.
