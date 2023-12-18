@@ -9,4 +9,7 @@ Milestones:
 3. Train the network
 4. Check if the embedding space (latent word vector space) posess the semantic geometry, where e.g. King-Man+Woman=Queen.
 
+Environment:
+- `pip install tfds-nightly`
+
 ![Два дебила это сила](DevelopmentBuddies.jpg)
