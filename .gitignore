@@ -1,2 +1,4 @@
 # Large datasets stored locally
 datasets/
+*.gz
+/data
