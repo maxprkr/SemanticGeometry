@@ -17,3 +17,7 @@ Environment:
   `pip install tfds-nightly`
 
 ![Два дебила это сила](DevelopmentBuddies.jpg)
+
+TODO 2023.12.30
+1. Save model after each epoch
+2. Save training and validation curves
