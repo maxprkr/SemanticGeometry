@@ -1,5 +1,10 @@
 # Large datasets stored locally
+*
+!*.py
+!*.ipynb
+!*.md
 datasets/
 *.gz
+*.
 .vscode
 /data
