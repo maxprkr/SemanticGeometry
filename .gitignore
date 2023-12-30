@@ -1,4 +1,5 @@
 # Large datasets stored locally
 datasets/
 *.gz
+.vscode
 /data
